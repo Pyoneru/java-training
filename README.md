@@ -9,3 +9,5 @@
 4. Instrukcje Warunkowe
 
 5. Pętle
+
+6. Funkcje
