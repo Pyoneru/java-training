@@ -11,3 +11,5 @@
 5. Pętle
 
 6. Funkcje
+
+7. Tablice
